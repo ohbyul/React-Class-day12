@@ -1,5 +1,5 @@
 import React from 'react';
-import Test1 from './components/Test2';
+import Test1 from './components/Test7';
 
 const App = () => {
   return (
