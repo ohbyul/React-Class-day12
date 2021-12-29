@@ -1,7 +1,7 @@
 # day 12
 ## # Hooks - useEffect
-- 참고 사이트
-https://ko.reactjs.org/docs/hooks-effect.html
+- 참고 사이트 https://ko.reactjs.org/docs/hooks-effect.html
+- 설명 잘되있는 참고 블로그 https://jungpaeng.tistory.com/92
 ### useEffect :  
 ```
 Effect Hook을 사용하면 함수 컴포넌트에서 side effect를 수행할 수 있습니다.
