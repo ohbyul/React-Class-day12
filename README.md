@@ -76,10 +76,12 @@ React가 DOM을 업데이트한 뒤 추가로 코드를 실행해야 하는 경�
 3. setInterval , setTimeout
 4. 외부 라이브러리
 ```
-\
+
 
 
 ### useEffect 로 데이터 가져오기
+https://dog.ceo/dog-api/
+- dog API 
 ```
 import React from "react";
 
